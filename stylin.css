@@ -19,7 +19,7 @@ body {
 
 #ball p {
     position: relative;
-    top: 150px;
+    top: 40%;
 }
 
 footer {
@@ -37,4 +37,23 @@ a {
 
 a:hover {
     font-style: italic;
+}
+
+@media ( min-width: 600px ) {
+
+    #ball {
+        height: 60vw;
+        width: 60vw;
+        margin-top: 30%;
+    }
+
+    #ball p {
+        font-size: 1.5em;
+    }
+
+    footer {
+        font-size: .7em;
+        width: 100vw;
+    }
+
 }
