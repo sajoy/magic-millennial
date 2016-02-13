@@ -39,12 +39,12 @@ a:hover {
     font-style: italic;
 }
 
-@media screen ( max-width: 700px ) {
+/*@media ( max-width: 800px ) {
 
     #ball {
         height: 60vw;
         width: 60vw;
-        margin-top: 30%;
+        margin-top: 20%;
     }
 
     #ball p {
@@ -56,4 +56,4 @@ a:hover {
         width: 100vw;
     }
 
-}
+}*/
