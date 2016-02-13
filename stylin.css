@@ -39,7 +39,7 @@ a:hover {
     font-style: italic;
 }
 
-@media ( max-width: 600px ) {
+@media ( max-width: 480px ) {
 
     #ball {
         height: 60vw;
